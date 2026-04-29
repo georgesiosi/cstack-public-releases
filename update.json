@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "notes": "Initial release of CSTACK Governor.",
+  "pub_date": "2026-04-29T00:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://github.com/georgesiosi/cstack-public-releases/releases/download/v1.0.0/CSTACK.Governor_1.0.0_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": "https://github.com/georgesiosi/cstack-public-releases/releases/download/v1.0.0/CSTACK.Governor_1.0.0_universal.app.tar.gz"
+    }
+  }
+}

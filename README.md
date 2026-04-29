@@ -1,6 +1,6 @@
 # CSTACK Governor — Public Releases
 
-This repository hosts the official public releases of **CSTACK Governor**, the sovereign desktop app by [Conscious Stack](https://consciousstack.com).
+This repository hosts the official public releases of **CSTACK Governor**, the sovereign desktop app by [CSTACK.ai](https://cstack.ai).
 
 > Source code is maintained in a private repository. This repo exists solely to distribute signed, versioned application installers.
 
@@ -20,7 +20,7 @@ Visit the [Releases](https://github.com/georgesiosi/cstack-public-releases/relea
 
 CSTACK Governor is a native desktop app that monitors your active application stack and surfaces real-time cognitive alignment metrics — helping you protect your focus, reduce digital drift, and stay sovereign over your attention.
 
-Learn more at [consciousstack.com](https://consciousstack.com).
+Built on the principles of the [Conscious Stack](https://consciousstack.com) movement. Learn more at [cstack.ai](https://cstack.ai).
 
 ---
 
@@ -34,4 +34,4 @@ Release notes are published with each release on the [Releases](https://github.c
 
 ## Support
 
-For issues, feedback, or questions, visit [consciousstack.com](https://consciousstack.com) or reach out via the community.
+For issues, feedback, or questions, visit [cstack.ai](https://cstack.ai) or join the community at [consciousstack.com](https://consciousstack.com).
